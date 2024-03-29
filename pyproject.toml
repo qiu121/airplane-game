@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "airplane-war-game"
+version = "0.1.0"
+description = ""
+authors = ["to_Geek <99729305+qiu121@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
